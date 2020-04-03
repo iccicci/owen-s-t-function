@@ -1,6 +1,6 @@
 {
 	"name": "owen-s-t-function",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Approximate Owen's T function.",
 	"scripts": {
 		"build": "react-scripts build",
